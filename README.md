@@ -13,8 +13,7 @@ npm i puppeteer easy-pdf-merge
 ```
 This command will install modules: Puppeteer, Chromium browser and Easy PDF.
 
-2) Download and edit [index.js](https://github.com/OLSA/admin-to-pdf/blob/master/index.js) file.
-Please note that you need to **edit [index.js](https://github.com/OLSA/admin-to-pdf/blob/master/index.js)** file with **your login details and desired URL's.**
+2) Download [index.js](https://github.com/OLSA/admin-to-pdf/blob/master/index.js) file and edit with your **login details** and **desired URL's**.
 
 3) Start process:
 ```
@@ -23,5 +22,7 @@ node index.js
 After a few seconds you will find PDF files in project directory (partials and 1 merged with all).
 
 ## Notes
+**Don't forget to edit [index.js](https://github.com/OLSA/admin-to-pdf/blob/master/index.js)**!
+
 In this case, export to PDF is only one example what can be done with Node.js and Puppeteer (headless browser). 
 There are many other scenarios for what and how to use same techniques (remote login, automated processing, deep testing, etc...).
