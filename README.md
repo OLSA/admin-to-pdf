@@ -1,6 +1,6 @@
 # Admin pages to PDF
 
-This example shows how to remotely login to Processwire administration back-end and print desired pages to PDF using Node.js and headless browser Puppeteer. More details about this is [here](https://processwire.com/talk/topic/20101-how-to-render-admin-page-into-a-variable-to-create-a-pdf/?do=findComment&comment=174364).
+This example shows how to remotely login to Processwire administration back-end and print desired pages to PDF using Node.js and headless browser Puppeteer. More details about this topic is [here](https://processwire.com/talk/topic/20101-how-to-render-admin-page-into-a-variable-to-create-a-pdf/?do=findComment&comment=174364).
 
 ## Requirements
 1) Running Node.js on your machine
