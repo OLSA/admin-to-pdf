@@ -1,1 +1,1 @@
-# admin-to-pdf
+# Admin pages to PDF
